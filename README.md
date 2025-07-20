@@ -37,11 +37,13 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 ## 🔥 WakaTime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2056%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 118.1 kB Used in GitHub's Storage 
+> 📦 118.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 233 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -76,15 +78,15 @@ Sunday                   37 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 14 mins      ██████████████████░░░░░░░   72.07 % 
-C++                      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-TeX                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    10 hrs 25 mins      █████████████████░░░░░░░░   68.51 % 
+C++                      2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+TeX                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 10 mins      ████████████████████░░░░░   78.58 % 
-VS Code                  3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Chrome                   11 hrs 24 mins      ███████████████████░░░░░░   74.97 % 
+VS Code                  3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +102,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2025 18:49:47 UTC
+ Last Updated on 20/07/2025 18:49:45 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
