@@ -21,7 +21,7 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>给AI模型添加记忆</td><td>https://lanshi.xyz/posts/ai-memory/</td></tr><tr><td>视频脚本一键生成器</td><td>https://lanshi.xyz/portfolio/one-click_video_script_generator/</td></tr><tr><td>AI模型与输入输出</td><td>https://lanshi.xyz/studynotes/ai_models_and_input_output/</td></tr><tr><td>LangChain介绍</td><td>https://lanshi.xyz/posts/langchain_introduce/</td></tr><tr><td>API用法示例</td><td>https://lanshi.xyz/studynotes/api_usage_example/</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>AI读取文件及RAG应用</td><td>https://lanshi.xyz/studynotes/ai_reading_files_and_rag_applications/</td></tr><tr><td>给AI模型添加记忆</td><td>https://lanshi.xyz/posts/ai-memory/</td></tr><tr><td>视频脚本一键生成器</td><td>https://lanshi.xyz/portfolio/one-click_video_script_generator/</td></tr><tr><td>AI模型与输入输出</td><td>https://lanshi.xyz/studynotes/ai_models_and_input_output/</td></tr><tr><td>LangChain介绍</td><td>https://lanshi.xyz/posts/langchain_introduce/</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ## 🧩 Featured  Projects
