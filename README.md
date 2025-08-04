@@ -41,7 +41,9 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 
 **🐱 My GitHub Data** 
 
-> 📦 181.1 kB Used in GitHub's Storage 
+> 📦 181.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 241 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -76,11 +78,11 @@ Sunday                   37 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 50 mins       █████████████████████░░░░   83.75 % 
-Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Other                    2 hrs 35 mins       █████████████████████░░░░   82.80 % 
+Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 23 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,7 +98,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2025 18:52:14 UTC
+ Last Updated on 04/08/2025 18:56:13 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
