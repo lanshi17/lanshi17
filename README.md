@@ -37,11 +37,13 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 ## 🔥 WakaTime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 182.1 kB Used in GitHub's Storage 
+> 📦 182.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 241 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -76,13 +78,13 @@ Sunday                   37 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 3 mins       ██████████████████░░░░░░░   71.31 % 
-C++                      3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Markdown                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Other                    10 hrs 10 mins      █████████████████░░░░░░░░   68.43 % 
+C++                      3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 12 mins      ███████████████████░░░░░░   77.63 % 
-VS Code                  4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Chrome                   10 hrs 59 mins      ██████████████████░░░░░░░   73.90 % 
+VS Code                  3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +100,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 18:51:36 UTC
+ Last Updated on 16/08/2025 18:47:24 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
