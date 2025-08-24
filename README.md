@@ -37,11 +37,11 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 ## 🔥 WakaTime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2038%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 182.2 kB Used in GitHub's Storage 
+> 📦 182.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -99,7 +99,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2025 18:45:18 UTC
+ Last Updated on 24/08/2025 18:46:29 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
