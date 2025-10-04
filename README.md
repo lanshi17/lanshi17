@@ -37,11 +37,11 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 ## 🔥 WakaTime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 192.1 kB Used in GitHub's Storage 
+> 📦 200.4 kB Used in GitHub's Storage 
  > 
 > 🏆 248 Contributions in the Year 2025
  > 
@@ -51,6 +51,45 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+🌆 Daytime                87 commits          ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌃 Evening                125 commits         ███████████░░░░░░░░░░░░░░   44.64 % 
+🌙 Night                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Tuesday                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Wednesday                51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Thursday                 66 commits          ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Friday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Saturday                 53 commits          █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Sunday                   40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    8 hrs 48 mins       ██████████████░░░░░░░░░░░   55.14 % 
+Rust                     6 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+
+🔥 Editors: 
+Chrome                   9 hrs 35 mins       ███████████████░░░░░░░░░░   59.99 % 
+VS Code                  6 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.98 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,7 +103,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 18:47:09 UTC
+ Last Updated on 04/10/2025 18:44:39 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
