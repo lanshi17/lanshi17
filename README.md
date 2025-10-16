@@ -37,7 +37,7 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 ## 🔥 WakaTime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,6 +51,44 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                60 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌆 Daytime                103 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+🌃 Evening                151 commits         ███████████░░░░░░░░░░░░░░   42.30 % 
+🌙 Night                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Wednesday                72 commits          █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Thursday                 70 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Saturday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Sunday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    35 hrs 54 mins      ████████████████░░░░░░░░░   65.91 % 
+Rust                     8 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Markdown                 4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+
+🔥 Editors: 
+Chrome                   38 hrs              █████████████████░░░░░░░░   69.78 % 
+VS Code                  16 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   30.22 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,7 +102,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 18:50:40 UTC
+ Last Updated on 16/10/2025 18:50:29 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
