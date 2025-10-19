@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LANG_COUNT: 5
+          LANG_COUNT: 10
           # 时间线
           SHOW_PROFILE_VIEWS: False
           SHOW_LOC_CHART: False
