@@ -1,11 +1,11 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=65F703&center=true&width=600&height=55&lines=Hi+%F0%9F%91%8B+I'm+Lanshi%2C+an+AI+%26+IoT+developer+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=65F703&center=true&multiline=true&repeat=false&width=600&height=55&lines=Welcome+to+lanshi's+homepage!;If+you+have+any+job+opportunities+please+contact+me!)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lanshi17" alt="lanshi17" />
 </p>
 
 ## 👤 About Me
-Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language models, intelligent systems and full-stack development.  
+Hi 👋 I'm **Lanshi**, if you have any software development needs, please contact me!  
 
 ![Metrics](https://github.com/lanshi17/lanshi17/blob/master/github-metrics.svg)
 
