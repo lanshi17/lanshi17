@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=65F703&center=true&multiline=true&repeat=false&width=600&height=55&lines=Welcome+to+lanshi's+homepage!;If+you+have+any+job+opportunities+please+contact+me!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=65F703&center=true&multiline=true&repeat=false&width=600&height=80&lines=Welcome+to+lanshi's+homepage!;If+you+have+any+job+opportunities+please+contact+me!)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lanshi17" alt="lanshi17" />
