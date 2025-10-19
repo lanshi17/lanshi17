@@ -37,7 +37,7 @@ Hi 👋 I'm **Lanshi**, an AI & IoT developer passionate about large language mo
 ## 🔥 WakaTime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%10Time-406%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
