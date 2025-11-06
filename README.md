@@ -26,7 +26,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 🧩 Featured  Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=FishStone-Cloud)](https://github.com/lanshi17/FishStone-Cloud)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=AI-large-model-application-development)](https://github.com/lanshi17/AI-large-model-application-development)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=AIoT_notebook)](https://github.com/lanshi17/AIoT_notebook) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=FishStone-Cloud)](https://github.com/lanshi17/FishStone-Cloud)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=AI-large-model-application-development)](https://github.com/lanshi17/AI-large-model-application-development)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=AIoT_notebook)](https://github.com/lanshi17/AIoT_notebook) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=guoyan-zhizao)](https://github.com/lanshi17/guoyan-zhizao)
 
 ## 📊 GitHub Stats
 
