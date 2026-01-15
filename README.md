@@ -21,7 +21,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>火力发电效率数据特征工程</td><td>https://lanshi.space/studynotes/aiot1.1.2/</td></tr><tr><td>给AI模型用工具的能力</td><td>https://lanshi.space/studynotes/application_of_ai_model_tools/</td></tr><tr><td>AI读取文件及RAG应用</td><td>https://lanshi.space/studynotes/ai_reading_files_and_rag_applications/</td></tr><tr><td>给AI模型添加记忆</td><td>https://lanshi.space/posts/ai-memory/</td></tr><tr><td>视频脚本一键生成器</td><td>https://lanshi.space/portfolio/one-click_video_script_generator/</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>火力发电锅炉燃烧效率优化：机器学习回归算法实战</td><td>https://lanshi.space/studynotes/aiot1.1.3/</td></tr><tr><td>火力发电效率数据特征工程</td><td>https://lanshi.space/studynotes/aiot1.1.2/</td></tr><tr><td>给AI模型用工具的能力</td><td>https://lanshi.space/studynotes/application_of_ai_model_tools/</td></tr><tr><td>AI读取文件及RAG应用</td><td>https://lanshi.space/studynotes/ai_reading_files_and_rag_applications/</td></tr><tr><td>给AI模型添加记忆</td><td>https://lanshi.space/posts/ai-memory/</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ## 🧩 Featured  Projects
