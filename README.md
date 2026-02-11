@@ -36,7 +36,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -50,45 +50,8 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
  > 
 > 📜 50 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-🌆 Daytime                333 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌃 Evening                430 commits         █████████░░░░░░░░░░░░░░░░   37.99 % 
-🌙 Night                  158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Tuesday                  163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Wednesday                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Thursday                 166 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Friday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Saturday                 173 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   28 hrs 57 mins      ██████████████████░░░░░░░   71.83 % 
-Other                    4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Rust                     4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-TeX                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-
-🔥 Editors: 
-VS Code                  40 hrs 18 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -102,7 +65,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 19:42:16 UTC
+ Last Updated on 11/02/2026 19:37:44 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
