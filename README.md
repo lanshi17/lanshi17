@@ -36,7 +36,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -79,11 +79,11 @@ Sunday                   146 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 14 mins        █████████████████████████   98.45 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Rust                     37 mins             ████████████████████████░   96.96 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+VS Code                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -99,7 +99,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2026 19:03:35 UTC
+ Last Updated on 22/02/2026 19:05:38 UTC
 <!--END_SECTION:waka-->
 
 ## 📅 GitHub Activity
