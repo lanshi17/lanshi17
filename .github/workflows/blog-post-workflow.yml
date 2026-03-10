@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "STACKOVERFLOW"
-          feed_list:  "https://blog.lanshi.site/index.xml"
+          feed_list:  "https://lanshi.site/index.xml"
           template: "<tr><td>$title</td><td>$url</td></tr>"
           
           
