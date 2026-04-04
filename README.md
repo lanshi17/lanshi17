@@ -26,7 +26,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 🧩 Featured  Projects
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=claude-code-book)(https://github.com/lanshi17/claude-code-book)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lanshi17&repo=claude-code-book)(https://github.com/lanshi17/claude-code-book)]
 
 ## 📊 GitHub Stats
 
