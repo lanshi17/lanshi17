@@ -26,7 +26,9 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 📊 GitHub Stats
 
-![lanshi's GitHub stats](https://github-readme-stats-cyan-three-80.vercel.app/api?username=lanshi17&show_icons=true&theme=radical)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
