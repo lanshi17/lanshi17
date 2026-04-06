@@ -26,7 +26,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 📊 GitHub Stats
 
-[![lanshi17's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanshi17)](https://github.com/anuraghazra/github-readme-stats)
+![lanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanshi17&show_icons=true&theme=radical)
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
