@@ -27,8 +27,6 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 ## 📊 GitHub Stats
 
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
