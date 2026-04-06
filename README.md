@@ -26,9 +26,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![](https://github-readme-stats.vercel.app/api?username=lanshi17&show_icons=true&theme=vue&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanshi17&theme=vue) |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanshi17)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
