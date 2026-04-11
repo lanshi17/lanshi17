@@ -17,7 +17,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
   [![Github Badge](https://img.shields.io/badge/-lanshi17-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lanshi17/)](https://www.github.com/lanshi17/)
 
 
-## 📕 &nbsp;Latest Blog Posts  [@lanshi17](https://lanshi.space)
+## 📕 &nbsp;Latest Blog Posts  [@lanshi17](https://lanshi.site)
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
