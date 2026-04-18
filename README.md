@@ -30,9 +30,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2014%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,6 +44,44 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                528 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+🌆 Daytime                675 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌃 Evening                832 commits         █████████░░░░░░░░░░░░░░░░   36.78 % 
+🌙 Night                  227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   462 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Tuesday                  433 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Wednesday                279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Thursday                 319 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Friday                   225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Saturday                 249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Sunday                   295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   10 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   37.42 % 
+Markdown                 5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Other                    4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+TeX                      3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+TypeScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+
+🔥 Editors: 
+VS Code                  22 hrs 4 mins       ████████████████████░░░░░   81.62 % 
+Unknown Editor           4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -59,7 +95,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 19:43:54 UTC
+ Last Updated on 18/04/2026 19:17:27 UTC
 <!--END_SECTION:waka-->
 
 
