@@ -21,7 +21,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>一次汽车购买价值聚类实验：KMeans、DBSCAN 与分层聚类的结果对比</td><td>https://blog.lanshi.site/studynotes/aiot1.2.4/</td></tr><tr><td>在 LFW 人脸数据上比较 Logistic Regression 与 Linear SVM：基于 Nested CV 的严谨实验</td><td>https://blog.lanshi.site/studynotes/aiot1.2.3/</td></tr><tr><td>工业蒸汽量预测实战：SVR、Lasso、ElasticNet 与加权融合</td><td>https://blog.lanshi.site/studynotes/aiot1.2.2/</td></tr><tr><td>通过逻辑斯蒂回归实现手写数字多分类（0~9）</td><td>https://blog.lanshi.site/studynotes/aiot1.2.1/</td></tr><tr><td>模型融合实战笔记：从单模型到多模型 Bagging</td><td>https://blog.lanshi.site/studynotes/aiot1.1.4/</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>结合 PCA 降维与 LangGraph 智能体的机器学习自动化建模实践</td><td>https://blog.lanshi.site/studynotes/aiot1.2.5/</td></tr><tr><td>用 LLM 给聚类调参，但不让它决定真相：一次汽车购买数据的无监督实验复盘</td><td>https://blog.lanshi.site/studynotes/aiot1.2.4-agents/</td></tr><tr><td>一次汽车购买价值聚类实验：KMeans、DBSCAN 与分层聚类的结果对比</td><td>https://blog.lanshi.site/studynotes/aiot1.2.4/</td></tr><tr><td>在 LFW 人脸数据上比较 Logistic Regression 与 Linear SVM：基于 Nested CV 的严谨实验</td><td>https://blog.lanshi.site/studynotes/aiot1.2.3/</td></tr><tr><td>工业蒸汽量预测实战：SVR、Lasso、ElasticNet 与加权融合</td><td>https://blog.lanshi.site/studynotes/aiot1.2.2/</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ## 📊 GitHub Stats
