@@ -30,15 +30,13 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C256%20hrs%2011%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.78%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.44%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 739 Contributions in the Year 2026
+> 🏆 741 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -59,7 +57,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:13:47 UTC
+ Last Updated on 15/05/2026 20:09:33 UTC
 <!--END_SECTION:waka-->
 
 
