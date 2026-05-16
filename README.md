@@ -30,13 +30,15 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 ## 🔥 WakaTime Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.44%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C277%20hrs%202%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 741 Contributions in the Year 2026
+> 🏆 752 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,20 +46,58 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                609 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+🌆 Daytime                688 commits         ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌃 Evening                981 commits         ██████████░░░░░░░░░░░░░░░   39.32 % 
+🌙 Night                  217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   464 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Tuesday                  467 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Wednesday                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Friday                   296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Sunday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   17 hrs 59 mins      ████████████░░░░░░░░░░░░░   49.21 % 
+Markdown                 8 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Other                    4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Text                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+
+🔥 Editors: 
+VS Code                  29 hrs 50 mins      ████████████████████░░░░░   81.59 % 
+Unknown Editor           6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            █████████████░░░░░░░░░░░░   52.50 % 
+Python                   20 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 15/05/2026 20:09:33 UTC
+ Last Updated on 16/05/2026 19:41:59 UTC
 <!--END_SECTION:waka-->
 
 
