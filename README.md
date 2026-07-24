@@ -24,7 +24,7 @@ Hi 👋 I'm **Lanshi**, if you have any software development needs, please conta
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>基于梯度提升树的家用热水器数据分析与智能状态预测</td><td>https://blog.lanshi.dev/studynotes/aiot1.3.3/</td></tr><tr><td>葡萄酒数据分类实战：Logistic Regression、SVM 与决策树对比</td><td>https://blog.lanshi.dev/studynotes/aiot1.3.2/</td></tr><tr><td>从零理解决策树划分：信息熵与 Gini 系数的手写对照实验</td><td>https://blog.lanshi.dev/studynotes/aiot1.3.1/</td></tr><tr><td>结合 PCA 降维与 LangGraph 智能体的机器学习自动化建模实践</td><td>https://blog.lanshi.dev/studynotes/aiot1.2.5/</td></tr><tr><td>用 LLM 给聚类调参，但不让它决定真相：一次汽车购买数据的无监督实验复盘</td><td>https://blog.lanshi.dev/studynotes/aiot1.2.4-agents/</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>基于梯度提升树的家用热水器数据分析与智能状态预测</td><td>https://blog.lanshi.site/studynotes/aiot1.3.3/</td></tr><tr><td>葡萄酒数据分类实战：Logistic Regression、SVM 与决策树对比</td><td>https://blog.lanshi.site/studynotes/aiot1.3.2/</td></tr><tr><td>从零理解决策树划分：信息熵与 Gini 系数的手写对照实验</td><td>https://blog.lanshi.site/studynotes/aiot1.3.1/</td></tr><tr><td>结合 PCA 降维与 LangGraph 智能体的机器学习自动化建模实践</td><td>https://blog.lanshi.site/studynotes/aiot1.2.5/</td></tr><tr><td>用 LLM 给聚类调参，但不让它决定真相：一次汽车购买数据的无监督实验复盘</td><td>https://blog.lanshi.site/studynotes/aiot1.2.4-agents/</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 
