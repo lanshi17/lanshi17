@@ -1,6 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=65F703&center=true&multiline=true&repeat=false&width=1000&height=80&lines=Welcome+to+lanshi's+homepage!;If+you+have+any+job+opportunities+please+contact+me!)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=lanshi17)
+![](https://komarev.com/ghpvc/?username=lanshi17&color=orange)
+
 ## 👤 About Me
 Hi 👋 I'm **Lanshi**, if you have any software development needs, please contact me!  
 
