@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics embed
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
