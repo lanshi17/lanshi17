@@ -52,9 +52,9 @@ def main() -> int:
         compact(data.get("human_readable_daily_average") or "—") + "/day",
         f"since {data['start'][:7]}",
     ]
-    parts += [f"{l['name']} {hours(l['total_seconds'])}" for l in languages[:2]]
+    parts += [f"{l['name']} {hours(l['total_seconds'])}" for l in languages[:1]]
     if editors:
-        parts.append(f"top editor {editors[0]['name']}")
+        parts.append(f"editor {editors[0]['name']} {hours(editors[0]['total_seconds'])}")
 
     block = " · ".join(parts)
 

@@ -7,7 +7,7 @@ lanshi · CS grad student in Changsha · LLM infra & full-stack · open to work
 
 ![GitHub stats](https://github-readme-stats-gamma-nine-75.vercel.app/api?username=lanshi17&show_icons=true&theme=merko&hide_border=true&include_all_commits=true)
 
-<!-- WAKA:START -->**1,842 hrs** logged · 3h 21m/day · since 2025-07 · Python 466h · Markdown 197h · top editor VS Code<!-- WAKA:END -->
+<!-- WAKA:START -->**1,842 hrs** logged · 3h 21m/day · since 2025-07 · Python 466h · editor VS Code 808h<!-- WAKA:END -->
 
 ## Work
 
