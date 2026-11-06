@@ -64,7 +64,7 @@ os       Linux 1,340h · Mac 463h · Windows 39h
 
 <table>
   <tr><th align="left">Title</th><th align="right">Date</th></tr>
-  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/00-overview/">Stanford CS336 总览与学习路线图</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/01-tokenization/">从头构建语言模型与分词器</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/02-pytorch-resource-accounting/">PyTorch、Einops 与资源核算</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/03-architectures/">现代 Transformer 架构详解</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/04-attention-moe/">注意力替代方案与 MoE</a></td><td align="right"><code>2026-10-29</code></td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 ## Contact
