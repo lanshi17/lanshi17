@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render WakaTime all-time stats into the coding-time block in README.md.
+"""Render WakaTime all-time stats into the one-line block in README.md.
 
 Replaces everything between <!-- WAKA:START --> and <!-- WAKA:END -->.
 Exits non-zero only on real failures so the workflow fails loudly.
@@ -23,11 +23,12 @@ def hours(seconds: float) -> str:
 
 def short_hours(text: str) -> str:
     """'1,842 hrs 20 mins' -> '1,842 hrs'"""
-    return f"{text.split(' hrs')[0]} hrs" if ' hrs' in text else text
+    return f"{text.split(' hrs')[0]} hrs" if " hrs" in text else text
 
 
-def top(items, n=4):
-    return " · ".join(f"{i['name']} {hours(i['total_seconds'])}" for i in items[:n])
+def compact(text: str) -> str:
+    """'3 hrs 21 mins' -> '3h 21m'"""
+    return text.replace(" hrs", "h").replace(" mins", "m")
 
 
 def main() -> int:
@@ -45,20 +46,17 @@ def main() -> int:
 
     languages = [l for l in data.get("languages", []) if l["name"] != "Other"]
     editors = data.get("editors", [])
-    systems = data.get("operating_systems", [])
 
-    block = "\n".join(
-        [
-            "```console",
-            "$ wakatime --all-time",
-            f"total    {short_hours(data.get('human_readable_total_including_other_language') or data['human_readable_total'])} · "
-            f"{data.get('human_readable_daily_average') or '—'}/day · since {data['start'][:7]}",
-            f"langs    {top(languages)}",
-            f"editors  {top(editors)}",
-            f"os       {top(systems, 3)}",
-            "```",
-        ]
-    )
+    parts = [
+        f"**{short_hours(data.get('human_readable_total_including_other_language') or data['human_readable_total'])}** logged",
+        compact(data.get("human_readable_daily_average") or "—") + "/day",
+        f"since {data['start'][:7]}",
+    ]
+    parts += [f"{l['name']} {hours(l['total_seconds'])}" for l in languages[:2]]
+    if editors:
+        parts.append(f"top editor {editors[0]['name']}")
+
+    block = " · ".join(parts)
 
     with open(README, encoding="utf-8") as fh:
         text = fh.read()
@@ -68,7 +66,7 @@ def main() -> int:
         print("markers not found in README.md", file=sys.stderr)
         return 1
 
-    updated = pattern.sub(lambda _: f"{START}\n{block}\n{END}", text)
+    updated = pattern.sub(lambda _: f"{START}{block}{END}", text)
     if updated == text:
         print("no change")
         return 0
