@@ -24,6 +24,6 @@ Open to full-time and internship roles: [yhvguk@foxmail.com](mailto:yhvguk@foxma
 
 - [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com) — email
 - 1020037769 — QQ
-- Skurayzs — WeChat
+- lanshi0317 — WeChat
 - [blog.lanshi.dev](https://blog.lanshi.dev) — blog
 - [linxi.chat](https://linxi.chat) — LLM API
