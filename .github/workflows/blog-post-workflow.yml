@@ -20,4 +20,5 @@ jobs:
           feed_list: "https://blog.lanshi.dev/rss.xml"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
-          template: '<tr><td><a href="$url">$title</a></td><td align="right"><code>$date</code></td></tr>'
+          tag_post_pre_newline: true
+          template: '- [$title]($url) — $date$newline'

@@ -1,38 +1,24 @@
-```console
-$ whoami
-lanshi · CS grad student in Changsha · LLM infra & full-stack · open to work
-```
+I'm Lanshi — CS graduate student at Central South University and Hunan Agricultural University, in Changsha. I work on LLM applications, inference infrastructure, and full-stack systems.
 
-## Data
+Open to full-time and internship roles: [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com).
 
-![GitHub stats](https://github-readme-stats-gamma-nine-75.vercel.app/api?username=lanshi17&show_icons=true&theme=merko&hide_border=true&include_all_commits=true)
+## Projects
 
-<!-- WAKA:START -->**1,842 hrs** logged · 3h 21m/day · since 2025-07 · Python 466h · editor VS Code 808h<!-- WAKA:END -->
-
-## Work
-
-| Project | Stack | What it is |
-| :-- | :-- | :-- |
-| [guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao) | Rust · FastAPI · Redis · PostgreSQL · Vue 3 | Fruit & vegetable grading |
-| [Database_notebook](https://github.com/lanshi17/Database_notebook) | TeX | Database course notes |
-| [FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud) | Python | Self-hosted cloud drive |
-| [devpi](https://github.com/lanshi17/devpi) | Shell | Private PyPI mirror |
+- [guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao) — fruit and vegetable grading with Rust, FastAPI, Redis, PostgreSQL and Vue 3.
+- [FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud) — self-hosted cloud drive in Python.
+- [Database_notebook](https://github.com/lanshi17/Database_notebook) — database course notes in TeX.
+- [devpi](https://github.com/lanshi17/devpi) — private PyPI mirror deployment in Shell.
 
 ## Writing
 
-52 posts, synced daily:
+Latest posts from [blog.lanshi.dev](https://blog.lanshi.dev), synced daily:
 
-<table>
-  <tr><th align="left">Title</th><th align="right">Date</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/00-overview/">Stanford CS336 总览与学习路线图</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/01-tokenization/">从头构建语言模型与分词器</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/02-pytorch-resource-accounting/">PyTorch、Einops 与资源核算</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/03-architectures/">现代 Transformer 架构详解</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/04-attention-moe/">注意力替代方案与 MoE</a></td><td align="right"><code>2026-10-29</code></td></tr><!-- BLOG-POST-LIST:END -->
-</table>
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 ## Contact
 
-| Channel | Address |
-| :-- | :-- |
-| Email | [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com) |
-| QQ | 1020037769 |
-| WeChat | `Skurayzs` |
-| Blog | [blog.lanshi.dev](https://blog.lanshi.dev) |
-| LLM API | [linxi.chat](https://linxi.chat) |
+- **Email** — [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com)
+- **QQ** — 1020037769
+- **WeChat** — Skurayzs
+- **Blog** — [blog.lanshi.dev](https://blog.lanshi.dev)
+- **LLM API** — [linxi.chat](https://linxi.chat)
