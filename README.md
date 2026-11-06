@@ -1,19 +1,19 @@
 ```console
 $ whoami
 lanshi · just-a-rock
-CS 研究生（中南大学 / 湖南农业大学）· 长沙
-全职 / 实习机会开放中，欢迎联系
+CS graduate student (Central South University / Hunan Agricultural University) · Changsha
+Open to full-time & internship roles — get in touch
 
 $ cat stack.md
 Python · Rust · TypeScript · Go · Vue
-LLM 应用与推理基础设施 / 全栈系统 / 自动化脚本
+LLM apps & inference infrastructure / full-stack systems / automation
 
 $ ls services/
-https://linxi.chat        LLM API 聚合（可对接 key）
-https://blog.lanshi.dev   技术博客 · 52 篇
+https://linxi.chat        LLM API gateway (key resale)
+https://blog.lanshi.dev   technical writing · 52 posts
 ```
 
-[![profile visits](https://komarev.com/ghpvc/?username=lanshi17&color=4a5045&style=flat-square)](https://github.com/lanshi17)
+[![profile visits](https://komarev.com/ghpvc/?username=lanshi17&color=4a5045&style=flat-square&label=PROFILE+VISITS)](https://github.com/lanshi17)
 [![followers](https://img.shields.io/github/followers/lanshi17?style=flat-square&label=FOLLOWERS&labelColor=111413&color=abd200)](https://github.com/lanshi17?tab=followers)
 [![hireable](https://img.shields.io/badge/STATUS-HIREABLE-abd200?style=flat-square)](#contact)
 
@@ -27,7 +27,7 @@ https://blog.lanshi.dev   技术博客 · 52 篇
 </p>
 
 <details open>
-<summary>Contribution activity（lowlighter/metrics 卡片 · 每日 00:00 UTC 自动更新）</summary>
+<summary>Contribution activity (lowlighter/metrics card · refreshed daily at 00:00 UTC)</summary>
 
 ![metrics](https://raw.githubusercontent.com/lanshi17/lanshi17/master/github-metrics.svg)
 
@@ -35,7 +35,7 @@ https://blog.lanshi.dev   技术博客 · 52 篇
 
 ### Coding time
 
-WakaTime 全时段统计（含编辑器与 AI CLI），每日自动汇总：
+All-time WakaTime stats (editor and AI-CLI time included), refreshed daily:
 
 <!-- WAKA:START -->
 ```console
@@ -49,33 +49,33 @@ os       Linux 1,340h · Mac 463h · Windows 39h
 
 ## Projects
 
-| 项目 | 说明 | ★ |
+| Project | What it is | ★ |
 | :-- | :-- | --: |
-| [guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao) | 果蔬识别与质量分级：Rust 后端 + FastAPI 推理 + Redis + PostgreSQL + Vue 3 | [![stars](https://img.shields.io/github/stars/lanshi17/guoyan-zhizao?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/guoyan-zhizao/stargazers) |
-| [Database_notebook](https://github.com/lanshi17/Database_notebook) | 数据库课程笔记（TeX） | [![stars](https://img.shields.io/github/stars/lanshi17/Database_notebook?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/Database_notebook) |
-| [FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud) | 云盘系统（Python） | [![stars](https://img.shields.io/github/stars/lanshi17/FishStone-Cloud?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/FishStone-Cloud) |
-| [AI-large-model-application-development](https://github.com/lanshi17/AI-large-model-application-development) | AI 大模型应用开发 | [![stars](https://img.shields.io/github/stars/lanshi17/AI-large-model-application-development?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/AI-large-model-application-development) |
-| [devpi](https://github.com/lanshi17/devpi) | Python 私有源部署 | [![stars](https://img.shields.io/github/stars/lanshi17/devpi?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/devpi) |
-| [Watermelon-Book-Notes](https://github.com/lanshi17/Watermelon-Book-Notes) | 《西瓜书》学习笔记 | [![stars](https://img.shields.io/github/stars/lanshi17/Watermelon-Book-Notes?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/Watermelon-Book-Notes) |
+| [guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao) | Fruit & vegetable recognition and quality grading — Rust backend + FastAPI inference + Redis + PostgreSQL + Vue 3 | [![stars](https://img.shields.io/github/stars/lanshi17/guoyan-zhizao?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/guoyan-zhizao/stargazers) |
+| [Database_notebook](https://github.com/lanshi17/Database_notebook) | Database course notes (TeX) | [![stars](https://img.shields.io/github/stars/lanshi17/Database_notebook?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/Database_notebook) |
+| [FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud) | Self-hosted cloud drive (Python) | [![stars](https://img.shields.io/github/stars/lanshi17/FishStone-Cloud?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/FishStone-Cloud) |
+| [AI-large-model-application-development](https://github.com/lanshi17/AI-large-model-application-development) | LLM application development | [![stars](https://img.shields.io/github/stars/lanshi17/AI-large-model-application-development?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/AI-large-model-application-development) |
+| [devpi](https://github.com/lanshi17/devpi) | Private PyPI mirror deployment | [![stars](https://img.shields.io/github/stars/lanshi17/devpi?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/devpi) |
+| [Watermelon-Book-Notes](https://github.com/lanshi17/Watermelon-Book-Notes) | Study notes on "Watermelon Book" (machine learning) | [![stars](https://img.shields.io/github/stars/lanshi17/Watermelon-Book-Notes?style=flat-square&labelColor=111413&color=abd200)](https://github.com/lanshi17/Watermelon-Book-Notes) |
 
 ## Writing
 
-[blog.lanshi.dev](https://blog.lanshi.dev) · 52 篇（含 Stanford CS336 精读系列 15 篇），每日 06:00 UTC 自动同步：
+[blog.lanshi.dev](https://blog.lanshi.dev) · 52 posts (incl. a 15-part Stanford CS336 series), synced daily at 06:00 UTC:
 
 <table>
   <tr><th align="left">Title</th><th align="right">Date</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/00-overview/">Stanford CS336 总览与学习路线图</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/01-tokenization/">从头构建语言模型与分词器</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/02-pytorch-resource-accounting/">PyTorch、Einops 与资源核算</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/03-architectures/">现代 Transformer 架构详解</a></td><td align="right"><code>2026-10-29</code></td></tr><tr><td><a href="https://blog.lanshi.dev/studynotes/cs336/04-attention-moe/">注意力替代方案与 MoE</a></td><td align="right"><code>2026-10-29</code></td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 </table>
 
 ## Contact
 
-| 渠道 | 地址 |
+| Channel | Address |
 | :-- | :-- |
-| 邮件（最快） | [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com) |
+| Email (fastest) | [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com) |
 | QQ | [1020037769](https://qm.qq.com/q/NAXbuT3rQA) |
-| 微信 | `Skurayzs` |
+| WeChat | `Skurayzs` |
 | GitHub | [lanshi17](https://github.com/lanshi17) |
-| 博客 | [blog.lanshi.dev](https://blog.lanshi.dev) |
+| Blog | [blog.lanshi.dev](https://blog.lanshi.dev) |
 | LLM API | [linxi.chat](https://linxi.chat) |
 
 <p align="center">
