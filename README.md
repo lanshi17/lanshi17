@@ -4,14 +4,12 @@ Open to full-time and internship roles: [yhvguk@foxmail.com](mailto:yhvguk@foxma
 
 ## Projects
 
-- [guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao) — fruit and vegetable grading with Rust, FastAPI, Redis, PostgreSQL and Vue 3.
-- [FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud) — self-hosted cloud drive in Python.
-- [Database_notebook](https://github.com/lanshi17/Database_notebook) — database course notes in TeX.
-- [devpi](https://github.com/lanshi17/devpi) — private PyPI mirror deployment in Shell.
+- [guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao) — fruit and vegetable grading with Rust, FastAPI, Redis, PostgreSQL and Vue 3
+- [FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud) — self-hosted cloud drive in Python
+- [Database_notebook](https://github.com/lanshi17/Database_notebook) — database course notes in TeX
+- [devpi](https://github.com/lanshi17/devpi) — private PyPI mirror deployment in Shell
 
 ## Writing
-
-Latest posts from [blog.lanshi.dev](https://blog.lanshi.dev), synced daily:
 
 <!-- BLOG-POST-LIST:START -->
 - [Stanford CS336 总览与学习路线图](https://blog.lanshi.dev/studynotes/cs336/00-overview/) — 2026-10-29
@@ -19,13 +17,12 @@ Latest posts from [blog.lanshi.dev](https://blog.lanshi.dev), synced daily:
 - [PyTorch、Einops 与资源核算](https://blog.lanshi.dev/studynotes/cs336/02-pytorch-resource-accounting/) — 2026-10-29
 - [现代 Transformer 架构详解](https://blog.lanshi.dev/studynotes/cs336/03-architectures/) — 2026-10-29
 - [注意力替代方案与 MoE](https://blog.lanshi.dev/studynotes/cs336/04-attention-moe/) — 2026-10-29
-
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
 
-- **Email** — [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com)
-- **QQ** — 1020037769
-- **WeChat** — Skurayzs
-- **Blog** — [blog.lanshi.dev](https://blog.lanshi.dev)
-- **LLM API** — [linxi.chat](https://linxi.chat)
+- [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com) — email
+- 1020037769 — QQ
+- Skurayzs — WeChat
+- [blog.lanshi.dev](https://blog.lanshi.dev) — blog
+- [linxi.chat](https://linxi.chat) — LLM API
