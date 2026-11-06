@@ -1,0 +1,44 @@
+name: Refresh profile sections
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 22 * * *'  # 06:00 Asia/Shanghai
+  push:
+    branches: [master]
+    paths:
+      - '.github/scripts/update_profile.py'
+      - '.github/workflows/update-profile.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-sections
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Regenerate Now and Selected work from GitHub data
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: lanshi17
+        run: python3 .github/scripts/update_profile.py
+
+      - name: Commit when something changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(profile): refresh Now and Selected work"
+          git push

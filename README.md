@@ -8,20 +8,24 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 
 ## Now
 
-- **Agent tooling in Rust** — [dsh-booth](https://github.com/lanshi17/dsh-booth) is a terminal console for a running agent: send a ticket, watch the executor, and pick commands from a palette. [codex-forge](https://github.com/lanshi17/codex-forge) is a lightweight, scalable agent runtime fork.
-- **Evidence-grounded retrieval** — [PACE-RAG](https://github.com/lanshi17/PACE-RAG) studies condition-constrained evidence retrieval for prenatal ultrasound, where an answer must be supported by a set of sources that actually apply. [fetal-case-literature-classifier](https://github.com/lanshi17/fetal-case-literature-classifier) screens case reports with PubMedBERT + DoRA.
-- **Learning in public** — a 15-part from-scratch language-model series following [Stanford CS336](https://blog.lanshi.dev/tags/Stanford%20CS336/): tokenizers, kernels, parallelism, scaling laws, post-training.
+<!-- NOW:START -->
+- **[fetal-case-literature-classifier](https://github.com/lanshi17/fetal-case-literature-classifier)** — PubMedBERT DoRA fetal-case literature classifier `Python`
+- **[AutomatedPubMed](https://github.com/lanshi17/AutomatedPubMed)** — 通过校园网自动下载付费文献 `Python · updated 5d ago`
+- **[BTAE](https://github.com/lanshi17/BTAE)** — Bottom-Up Traceable Agentic Engineering `updated 6d ago`
+<!-- NOW:END -->
 
 ## Selected work
 
+<!-- SELECTED:START -->
 | Project | Stack | What it does |
 | :-- | :-- | :-- |
-| [guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao) | Rust · FastAPI · Vue 3 | Fruit and vegetable grading — upload, AI analysis, quality grade, query |
-| [zhishi](https://github.com/lanshi17/zhishi) | Bun · TypeScript · LightRAG | WeChat assistant that turns natural language into a calorie log and periodic reports |
-| [paper-immersive-reader](https://github.com/lanshi17/paper-immersive-reader) | Rust · WASM · Leptos | Local-first immersive paper reader with translation and vocabulary |
-| [wechat-rs](https://github.com/lanshi17/wechat-rs) | Rust · Axum · PostgreSQL | WeChat Official Account backend with an admin console and one-command deploy |
-| [FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud) | Python · Flask | Self-hosted cloud drive |
-| [devpi](https://github.com/lanshi17/devpi) | Shell · Docker | Private PyPI mirror, deployed and documented |
+| [dsh-booth](https://github.com/lanshi17/dsh-booth) | Rust · Agent · LLM | Terminal console for a running dsh agent — send a ticket, watch the executor, pick commands from a palette. |
+| [codex-forge](https://github.com/lanshi17/codex-forge) | Rust | Codex Forge — A lightweight, scalable Agent Runtime Fork based on OpenAI Codex. |
+| [wechat-rs](https://github.com/lanshi17/wechat-rs) | Rust · Axum · Docker | 🚀 高性能微信公众号后端服务 — Rust + Axum 构建，一键部署，支持 PostgreSQL/Redis 存储，内置管理后台 |
+| [zhishi](https://github.com/lanshi17/zhishi) | TypeScript · Agent · Bun | 知食 ZhīShí — WeChat calorie-tracking assistant: agent pipeline + LightRAG + PostgreSQL, Bun/TypeScript. |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go · Agent · Agent Framework | A reliable coding agent for complex software engineering tasks. |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | TypeScript · AI Agents · Agent Workspace | Your AI workspace for models, agents, and productivity. |
+<!-- SELECTED:END -->
 
 ## Writing
 
