@@ -4,9 +4,7 @@
   <img src="assets/banner-light.svg" alt="Lanshi — LLM applications, agent runtimes, inference systems" width="100%">
 </picture>
 
-I'm **Lanshi**, a CS graduate student at Central South University and Hunan Agricultural University in Changsha. I build LLM applications and the systems underneath them — agent runtimes, retrieval pipelines, inference services — mostly in Rust, TypeScript and Python.
-
-I'm open to full-time and internship roles. The fastest way to reach me is [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com).
+CS graduate student at Central South University and Hunan Agricultural University. Open to full-time and internship roles — [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com).
 
 ## Now
 
@@ -38,17 +36,6 @@ Notes on LLMs, systems, and the occasional detour — 52 posts and counting. Lat
 <!-- BLOG-POST-LIST:END -->
 
 [All posts](https://blog.lanshi.dev/archives) · [RSS](https://blog.lanshi.dev/rss.xml)
-
-## Toolkit
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## GitHub
 
