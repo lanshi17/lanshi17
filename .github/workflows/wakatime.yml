@@ -1,23 +1,36 @@
-name: Waka Readme
+name: Coding time
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: "20 3 * * *" # 11:20 Asia/Shanghai
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-wakatime
+  cancel-in-progress: false
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  wakatime:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # 时间线
-          SHOW_PROFILE_VIEWS: False
-          SHOW_LOC_CHART: False
-          SHOW_OS: False
-          SHOW_PROJECTS: False
-          SHOW_LINES_OF_CODE: True
-          
+      - uses: actions/checkout@v4
+
+      - name: Render coding-time block
+        env:
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_API_KEY }}
+        run: python3 .github/scripts/wakatime_block.py
+
+      - name: Commit README if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update coding-time stats"
+          git push
