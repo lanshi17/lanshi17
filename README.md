@@ -1,26 +1,26 @@
 ```console
 $ whoami
-CS grad student in Changsha · LLM infra & full-stack · open to full-time / internship roles
+lanshi · CS grad student in Changsha · LLM infra & full-stack · open to work
 ```
 
 ## Data
 
-<p align="center">
-  <img width="440" src="https://github-readme-stats-gamma-nine-75.vercel.app/api?username=lanshi17&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-</p>
+![GitHub stats](https://github-readme-stats-gamma-nine-75.vercel.app/api?username=lanshi17&show_icons=true&theme=merko&hide_border=true&include_all_commits=true)
 
 <!-- WAKA:START -->**1,842 hrs** logged · 3h 21m/day · since 2025-07 · Python 466h · Markdown 197h · top editor VS Code<!-- WAKA:END -->
 
 ## Work
 
-- **[guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao)** — fruit & vegetable grading: Rust + FastAPI + Redis + PostgreSQL + Vue 3
-- **[Database_notebook](https://github.com/lanshi17/Database_notebook)** — database course notes, TeX
-- **[FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud)** — self-hosted cloud drive, Python
-- **[devpi](https://github.com/lanshi17/devpi)** — private PyPI mirror, Shell
+| Project | Stack | What it is |
+| :-- | :-- | :-- |
+| [guoyan-zhizao](https://github.com/lanshi17/guoyan-zhizao) | Rust · FastAPI · Redis · PostgreSQL · Vue 3 | Fruit & vegetable grading |
+| [Database_notebook](https://github.com/lanshi17/Database_notebook) | TeX | Database course notes |
+| [FishStone-Cloud](https://github.com/lanshi17/FishStone-Cloud) | Python | Self-hosted cloud drive |
+| [devpi](https://github.com/lanshi17/devpi) | Shell | Private PyPI mirror |
 
 ## Writing
 
-[blog.lanshi.dev](https://blog.lanshi.dev) · 52 posts, synced daily:
+52 posts, synced daily:
 
 <table>
   <tr><th align="left">Title</th><th align="right">Date</th></tr>
@@ -29,4 +29,10 @@ CS grad student in Changsha · LLM infra & full-stack · open to full-time / int
 
 ## Contact
 
-[yhvguk@foxmail.com](mailto:yhvguk@foxmail.com) · [QQ](https://qm.qq.com/q/NAXbuT3rQA) · WeChat `Skurayzs` · [blog](https://blog.lanshi.dev) · [linxi.chat](https://linxi.chat)
+| Channel | Address |
+| :-- | :-- |
+| Email | [yhvguk@foxmail.com](mailto:yhvguk@foxmail.com) |
+| QQ | 1020037769 |
+| WeChat | `Skurayzs` |
+| Blog | [blog.lanshi.dev](https://blog.lanshi.dev) |
+| LLM API | [linxi.chat](https://linxi.chat) |
