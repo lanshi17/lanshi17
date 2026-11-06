@@ -13,7 +13,14 @@ Open to full-time and internship roles: [yhvguk@foxmail.com](mailto:yhvguk@foxma
 
 Latest posts from [blog.lanshi.dev](https://blog.lanshi.dev), synced daily:
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Stanford CS336 总览与学习路线图](https://blog.lanshi.dev/studynotes/cs336/00-overview/) — 2026-10-29
+- [从头构建语言模型与分词器](https://blog.lanshi.dev/studynotes/cs336/01-tokenization/) — 2026-10-29
+- [PyTorch、Einops 与资源核算](https://blog.lanshi.dev/studynotes/cs336/02-pytorch-resource-accounting/) — 2026-10-29
+- [现代 Transformer 架构详解](https://blog.lanshi.dev/studynotes/cs336/03-architectures/) — 2026-10-29
+- [注意力替代方案与 MoE](https://blog.lanshi.dev/studynotes/cs336/04-attention-moe/) — 2026-10-29
+
+<!-- BLOG-POST-LIST:END -->
 
 ## Contact
 
