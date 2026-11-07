@@ -37,6 +37,7 @@ Notes on LLMs, systems, and the occasional detour — 52 posts and counting. Lat
 - [PyTorch、Einops 与资源核算](https://blog.lanshi.dev/studynotes/cs336/02-pytorch-resource-accounting/) — 2026-10-29
 - [现代 Transformer 架构详解](https://blog.lanshi.dev/studynotes/cs336/03-architectures/) — 2026-10-29
 - [注意力替代方案与 MoE](https://blog.lanshi.dev/studynotes/cs336/04-attention-moe/) — 2026-10-29
+
 <!-- BLOG-POST-LIST:END -->
 
 [All posts](https://blog.lanshi.dev/archives) · [RSS](https://blog.lanshi.dev/rss.xml)
