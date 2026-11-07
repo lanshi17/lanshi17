@@ -10,7 +10,7 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 
 <!-- NOW:START -->
 - **[fetal-case-literature-classifier](https://github.com/lanshi17/fetal-case-literature-classifier)** — PubMedBERT DoRA fetal-case literature classifier `Python`
-- **[AutomatedPubMed](https://github.com/lanshi17/AutomatedPubMed)** — 通过校园网自动下载付费文献 `Python · updated 5d ago`
+- **[AutomatedPubMed](https://github.com/lanshi17/AutomatedPubMed)** — 通过校园网自动下载付费文献 `Python · updated 6d ago`
 - **[BTAE](https://github.com/lanshi17/BTAE)** — Bottom-Up Traceable Agentic Engineering `updated 6d ago`
 <!-- NOW:END -->
 
