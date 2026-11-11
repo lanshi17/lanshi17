@@ -11,7 +11,7 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 <!-- NOW:START -->
 - **[PACE-RAG](https://github.com/lanshi17/PACE-RAG)** — Condition-constrained evidence retrieval and verifiable generation for prenatal ultrasound. `Python`
 - **[fetal-case-literature-classifier](https://github.com/lanshi17/fetal-case-literature-classifier)** — PubMedBERT DoRA fetal-case literature classifier `Python`
-- **[AutomatedPubMed](https://github.com/lanshi17/AutomatedPubMed)** — 通过校园网自动下载付费文献 `Python · updated 9d ago`
+- **[AutomatedPubMed](https://github.com/lanshi17/AutomatedPubMed)** — 通过校园网自动下载付费文献 `Python · updated 10d ago`
 <!-- NOW:END -->
 
 ## Selected work
@@ -20,7 +20,6 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 | Project | Stack | What it does |
 | :-- | :-- | :-- |
 | [dsh-booth](https://github.com/lanshi17/dsh-booth) | Rust · Agent · LLM | Terminal console for a running dsh agent — send a ticket, watch the executor, pick commands from a palette. |
-| [codex-forge](https://github.com/lanshi17/codex-forge) | Rust | Codex Forge — A lightweight, scalable Agent Runtime Fork based on OpenAI Codex. |
 | [wechat-rs](https://github.com/lanshi17/wechat-rs) | Rust · Axum · Docker | 🚀 高性能微信公众号后端服务 — Rust + Axum 构建，一键部署，支持 PostgreSQL/Redis 存储，内置管理后台 |
 | [zhishi](https://github.com/lanshi17/zhishi) | TypeScript · Agent · Bun | 知食 ZhīShí — WeChat calorie-tracking assistant: agent pipeline + LightRAG + PostgreSQL, Bun/TypeScript. |
 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go · Agent · Agent Framework | A reliable coding agent for complex software engineering tasks. |
