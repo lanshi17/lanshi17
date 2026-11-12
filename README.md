@@ -9,9 +9,9 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 ## Now
 
 <!-- NOW:START -->
+- **[LinguaSeeker](https://github.com/lanshi17/LinguaSeeker)** — 用于辅助研究人员基于ACMG/AMP指南自动化基因变异分类。平台通过LLM解析上传的PDF文献（支持多语种），提取证据，集成ClinVar验证，并优先以HTML界面输出结果，以提升变异评级的准确性和效率。 `Python`
+- **[lanshi17_js](https://github.com/lanshi17/lanshi17_js)** — No description yet. `JavaScript`
 - **[PACE-RAG](https://github.com/lanshi17/PACE-RAG)** — Condition-constrained evidence retrieval and verifiable generation for prenatal ultrasound. `Python`
-- **[fetal-case-literature-classifier](https://github.com/lanshi17/fetal-case-literature-classifier)** — PubMedBERT DoRA fetal-case literature classifier `Python`
-- **[AutomatedPubMed](https://github.com/lanshi17/AutomatedPubMed)** — 通过校园网自动下载付费文献 `Python · updated 10d ago`
 <!-- NOW:END -->
 
 ## Selected work
