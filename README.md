@@ -9,9 +9,9 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 ## Now
 
 <!-- NOW:START -->
-- **[LinguaSeeker](https://github.com/lanshi17/LinguaSeeker)** — 用于辅助研究人员基于ACMG/AMP指南自动化基因变异分类。平台通过LLM解析上传的PDF文献（支持多语种），提取证据，集成ClinVar验证，并优先以HTML界面输出结果，以提升变异评级的准确性和效率。 `Python`
 - **[lanshi17_js](https://github.com/lanshi17/lanshi17_js)** — No description yet. `JavaScript`
-- **[PACE-RAG](https://github.com/lanshi17/PACE-RAG)** — Condition-constrained evidence retrieval and verifiable generation for prenatal ultrasound. `Python`
+- **[LinguaSeeker](https://github.com/lanshi17/LinguaSeeker)** — 用于辅助研究人员基于ACMG/AMP指南自动化基因变异分类。平台通过LLM解析上传的PDF文献（支持多语种），提取证据，集成ClinVar验证，并优先以HTML界面输出结果，以提升变异评级的准确性和效率。 `Python`
+- **[PACE-RAG](https://github.com/lanshi17/PACE-RAG)** — Condition-constrained evidence retrieval and verifiable generation for prenatal ultrasound. `Python · updated 2d ago`
 <!-- NOW:END -->
 
 ## Selected work
@@ -22,7 +22,7 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 | [dsh-booth](https://github.com/lanshi17/dsh-booth) | Rust · Agent · LLM | Terminal console for a running dsh agent — send a ticket, watch the executor, pick commands from a palette. |
 | [wechat-rs](https://github.com/lanshi17/wechat-rs) | Rust · Axum · Docker | 🚀 高性能微信公众号后端服务 — Rust + Axum 构建，一键部署，支持 PostgreSQL/Redis 存储，内置管理后台 |
 | [zhishi](https://github.com/lanshi17/zhishi) | TypeScript · Agent · Bun | 知食 ZhīShí — WeChat calorie-tracking assistant: agent pipeline + LightRAG + PostgreSQL, Bun/TypeScript. |
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go · Agent · Agent Framework | A reliable coding agent for complex software engineering tasks. |
+| [esengine/DeepSeek-Reasonix *(archived)*](https://github.com/esengine/DeepSeek-Reasonix) | Go · Agent · Agent Framework | A reliable coding agent for complex software engineering tasks. |
 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | TypeScript · AI Agents · Agent Workspace | Your AI workspace for models, agents, and productivity. |
 <!-- SELECTED:END -->
 
