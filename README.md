@@ -9,9 +9,9 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 ## Now
 
 <!-- NOW:START -->
+- **[hunau-thesis-typst](https://github.com/lanshi17/hunau-thesis-typst)** — 湖南农业大学研究生学位论文 Typst 模板：学位类型切换、盲审、双语图表、三线表、GB/T 7714 参考文献 `TeX`
+- **[csu_ai_api](https://github.com/lanshi17/csu_ai_api)** — 中南大学校内 AI API 客户端与多语言基准测试（OpenAI 兼容） `Python`
 - **[lanshi17_js](https://github.com/lanshi17/lanshi17_js)** — No description yet. `JavaScript`
-- **[LinguaSeeker](https://github.com/lanshi17/LinguaSeeker)** — 用于辅助研究人员基于ACMG/AMP指南自动化基因变异分类。平台通过LLM解析上传的PDF文献（支持多语种），提取证据，集成ClinVar验证，并优先以HTML界面输出结果，以提升变异评级的准确性和效率。 `Python`
-- **[PACE-RAG](https://github.com/lanshi17/PACE-RAG)** — Condition-constrained evidence retrieval and verifiable generation for prenatal ultrasound. `Python · updated 2d ago`
 <!-- NOW:END -->
 
 ## Selected work
