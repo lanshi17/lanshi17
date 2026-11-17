@@ -9,9 +9,9 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 ## Now
 
 <!-- NOW:START -->
-- **[hunau-thesis-typst](https://github.com/lanshi17/hunau-thesis-typst)** — 湖南农业大学研究生学位论文 Typst 模板：学位类型切换、盲审、双语图表、三线表、GB/T 7714 参考文献 `TeX · updated 2d ago`
-- **[csu_ai_api](https://github.com/lanshi17/csu_ai_api)** — 中南大学校内 AI API 客户端与多语言基准测试（OpenAI 兼容） `Python · updated 2d ago`
-- **[lanshi17_js](https://github.com/lanshi17/lanshi17_js)** — No description yet. `JavaScript · updated 3d ago`
+- **[hunau-thesis-typst](https://github.com/lanshi17/hunau-thesis-typst)** — 湖南农业大学研究生学位论文 Typst 模板：学位类型切换、盲审、双语图表、三线表、GB/T 7714 参考文献 `TeX · updated 3d ago`
+- **[csu_ai_api](https://github.com/lanshi17/csu_ai_api)** — 中南大学校内 AI API 客户端与多语言基准测试（OpenAI 兼容） `Python · updated 3d ago`
+- **[lanshi17_js](https://github.com/lanshi17/lanshi17_js)** — No description yet. `JavaScript · updated 4d ago`
 <!-- NOW:END -->
 
 ## Selected work
