@@ -9,9 +9,9 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 ## Now
 
 <!-- NOW:START -->
+- **[AlgoCoach](https://github.com/lanshi17/AlgoCoach)** — 本地优先的 OI/xCPC 算法训练工作台：AgentScope + ReMe AI 教练、Monaco 编辑器、LeetCode 判题、Chroma 知识库与 Remotion 动画。 `Python`
+- **[AutomatedPubMed](https://github.com/lanshi17/AutomatedPubMed)** — 通过校园网自动下载付费文献 `Python`
 - **[fetal-case-literature-classifier](https://github.com/lanshi17/fetal-case-literature-classifier)** — PubMedBERT DoRA fetal-case literature classifier `Python`
-- **[hunau-thesis-typst](https://github.com/lanshi17/hunau-thesis-typst)** — 湖南农业大学研究生学位论文 Typst 模板：学位类型切换、盲审、双语图表、三线表、GB/T 7714 参考文献 `TeX · updated 4d ago`
-- **[csu_ai_api](https://github.com/lanshi17/csu_ai_api)** — 中南大学校内 AI API 客户端与多语言基准测试（OpenAI 兼容） `Python · updated 4d ago`
 <!-- NOW:END -->
 
 ## Selected work
