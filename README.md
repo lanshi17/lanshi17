@@ -10,8 +10,8 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 
 <!-- NOW:START -->
 - **[AlgoCoach](https://github.com/lanshi17/AlgoCoach)** — 本地优先的 OI/xCPC 算法训练工作台：AgentScope + ReMe AI 教练、Monaco 编辑器、LeetCode 判题、Chroma 知识库与 Remotion 动画。 `Python`
+- **[cpp-anything](https://github.com/lanshi17/cpp-anything)** — Rewrite your app in C++ (C++20/23), and prove it still behaves the same `Rust`
 - **[AutomatedPubMed](https://github.com/lanshi17/AutomatedPubMed)** — 通过校园网自动下载付费文献 `Python`
-- **[fetal-case-literature-classifier](https://github.com/lanshi17/fetal-case-literature-classifier)** — PubMedBERT DoRA fetal-case literature classifier `Python`
 <!-- NOW:END -->
 
 ## Selected work
@@ -19,7 +19,7 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 <!-- SELECTED:START -->
 | Project | Stack | What it does |
 | :-- | :-- | :-- |
-| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Go · 2api · Antigravity2api | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [Gloridust/WowType](https://github.com/Gloridust/WowType) | Rust | 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。 |
 | [dsh-booth](https://github.com/lanshi17/dsh-booth) | Rust · Agent · LLM | Terminal console for a running dsh agent — send a ticket, watch the executor, pick commands from a palette. |
 | [wechat-rs](https://github.com/lanshi17/wechat-rs) | Rust · Axum · Docker | 🚀 高性能微信公众号后端服务 — Rust + Axum 构建，一键部署，支持 PostgreSQL/Redis 存储，内置管理后台 |
 | [zhishi](https://github.com/lanshi17/zhishi) | TypeScript · Agent · Bun | 知食 ZhīShí — WeChat calorie-tracking assistant: agent pipeline + LightRAG + PostgreSQL, Bun/TypeScript. |
