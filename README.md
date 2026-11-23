@@ -11,7 +11,7 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 <!-- NOW:START -->
 - **[BTAE](https://github.com/lanshi17/BTAE)** — Bottom-Up Traceable Agentic Engineering `Python`
 - **[cpp-anything](https://github.com/lanshi17/cpp-anything)** — Rewrite your app in C++ (C++20/23), and prove it still behaves the same `C++`
-- **[AlgoCoach](https://github.com/lanshi17/AlgoCoach)** — 本地优先的 OI/xCPC 算法训练工作台：AgentScope + ReMe AI 教练、Monaco 编辑器、LeetCode 判题、Chroma 知识库与 Remotion 动画。 `TypeScript`
+- **[AlgoCoach](https://github.com/lanshi17/AlgoCoach)** — 本地优先的 OI/xCPC 算法训练工作台：AgentScope + ReMe AI 教练、Monaco 编辑器、LeetCode 判题、Chroma 知识库与 Remotion 动画。 `TypeScript · updated 2d ago`
 <!-- NOW:END -->
 
 ## Selected work
