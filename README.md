@@ -10,8 +10,8 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 
 <!-- NOW:START -->
 - **[BTAE](https://github.com/lanshi17/BTAE)** — Bottom-Up Traceable Agentic Engineering `Python`
-- **[cpp-anything](https://github.com/lanshi17/cpp-anything)** — Rewrite your app in C++ (C++20/23), and prove it still behaves the same `C++`
-- **[AlgoCoach](https://github.com/lanshi17/AlgoCoach)** — 本地优先的 OI/xCPC 算法训练工作台：AgentScope + ReMe AI 教练、Monaco 编辑器、LeetCode 判题、Chroma 知识库与 Remotion 动画。 `TypeScript · updated 2d ago`
+- **[AlgoCoach](https://github.com/lanshi17/AlgoCoach)** — 本地优先的 OI/xCPC 算法训练工作台：AgentScope + ReMe AI 教练、Monaco 编辑器、LeetCode 判题、Chroma 知识库与 Remotion 动画。 `TypeScript`
+- **[PACE-RAG](https://github.com/lanshi17/PACE-RAG)** — Condition-constrained evidence retrieval and verifiable generation for prenatal ultrasound. `Python`
 <!-- NOW:END -->
 
 ## Selected work
@@ -20,7 +20,7 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 | Project | Stack | What it does |
 | :-- | :-- | :-- |
 | [Gloridust/WowType](https://github.com/Gloridust/WowType) | Rust | 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。 |
-| [dsh-booth](https://github.com/lanshi17/dsh-booth) | Rust · Agent · LLM | Terminal console for a running dsh agent — send a ticket, watch the executor, pick commands from a palette. |
+| [dsh-pi](https://github.com/lanshi17/dsh-pi) | Rust · Agent · LLM | Terminal console for a running dsh agent — send a ticket, watch the executor, pick commands from a palette. |
 | [wechat-rs](https://github.com/lanshi17/wechat-rs) | Rust · Axum · Docker | 🚀 高性能微信公众号后端服务 — Rust + Axum 构建，一键部署，支持 PostgreSQL/Redis 存储，内置管理后台 |
 | [zhishi](https://github.com/lanshi17/zhishi) | TypeScript · Agent · Bun | 知食 ZhīShí — WeChat calorie-tracking assistant: agent pipeline + LightRAG + PostgreSQL, Bun/TypeScript. |
 | [esengine/DeepSeek-Reasonix *(archived)*](https://github.com/esengine/DeepSeek-Reasonix) | Go · Agent · Agent Framework | A reliable coding agent for complex software engineering tasks. |
