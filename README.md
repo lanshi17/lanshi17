@@ -11,7 +11,7 @@ CS graduate student at Central South University and Hunan Agricultural Universit
 <!-- NOW:START -->
 - **[BTAE](https://github.com/lanshi17/BTAE)** — Bottom-Up Traceable Agentic Engineering `Python`
 - **[AlgoCoach](https://github.com/lanshi17/AlgoCoach)** — 本地优先的 OI/xCPC 算法训练工作台：AgentScope + ReMe AI 教练、Monaco 编辑器、LeetCode 判题、Chroma 知识库与 Remotion 动画。 `TypeScript`
-- **[PACE-RAG](https://github.com/lanshi17/PACE-RAG)** — Condition-constrained evidence retrieval and verifiable generation for prenatal ultrasound. `Python`
+- **[devpi](https://github.com/lanshi17/devpi)** — python私有源 `Shell`
 <!-- NOW:END -->
 
 ## Selected work
